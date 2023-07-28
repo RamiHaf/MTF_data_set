@@ -10,7 +10,7 @@ The MTF data set contains a distinct distribution of celebrities' image faces th
 |Race classification| Asian (Chinese/Korean)| 80|1715|
 |^ | Asian (Indian)| 49|820|
 |^ | Black | 35| 478|
-|^  | White | 76| 2133|
+|^  | White || 76| 2133|
 
 
 
