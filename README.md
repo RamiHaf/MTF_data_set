@@ -8,9 +8,9 @@ The MTF data set contains a distinct distribution of celebrities' image faces th
 | --- | --- |--- | --- |
 |Face recognition| Celebrities names| 240| 5246|
 |Race classification| Asian (Chinese/Korean)| 80|1715|
-|Race classification| Asian (Indian)| 49|820|
-|Race classification| Black | 35| 478|
-|Race classification| White | 76| 2133|
+|| Asian (Indian)| 49|820|
+|| Black | 35| 478|
+|^| White | 76| 2133|
 
 
 
