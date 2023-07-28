@@ -7,6 +7,11 @@ The MTF data set contains a distinct distribution of celebrities' image faces th
 | Task  | Label | Celebrities | Image |
 | --- | --- |--- | --- |--- |--- |
 |Face recognition| Celebrities names| 240| 5246|
+
+
+
+
+
 |Race classification|
 
 ## Get the data
