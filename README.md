@@ -23,5 +23,5 @@ https://drive.google.com/drive/folders/1FCSCaBMkGZ6GFcOHmfbFGPcgucRaeCrf?usp=sha
 
 Researchers can conveniently access the data for each task from this version, which streamlines their workflow and simplifies experimentation.
 
-In addition to the data set release, we have made available in the the Python code we used for evaluating the data with the various DL models. This code can serve as a baseline for other researchers to compare their work with the results reported here. The code is available on Github Drive through the following link: 
+In addition to the data set release, we have made available in the the Python code we used for evaluating the data with the various DL models. This code can serve as a baseline for other researchers to compare their work with the results reported here. The code is available on Github through the following link: 
 https://github.com/RamiHaf/MTF_data_set/blob/main/MTF_classification_five_models.ipynb
