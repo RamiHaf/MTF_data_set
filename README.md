@@ -14,3 +14,13 @@ The MTF data set contains 5246 images with a distinct distribution of celebritie
 ## Get the data
 The MTF data set can be accessed through the following link:
 https://sobigdata.d4science.org/catalogue-sobigdata?path=/dataset/multi-task_faces_mtf_dataset
+
+Moreover, we also made available all the trained models we evaluated on the MTF data set. Since these models provide baseline results for the different tasks supported by the data set, by releasing them we aim at facilitating future investigations conducted on this data set.
+https://drive.google.com/drive/folders/1M0vKn2AeKNj-Ta0M6VHNHHznJYbLobtU?usp=sharing
+
+The second version of the data set for single tasks and the trained models are available on Google Drive through the following link: 
+https://drive.google.com/drive/folders/1FCSCaBMkGZ6GFcOHmfbFGPcgucRaeCrf?usp=sharing.
+
+Researchers can conveniently access the data for each task from this version, which streamlines their workflow and simplifies experimentation.
+
+In addition to the data set release, we have made available in the the Python code we used for evaluating the data with the various DL models mentioned in the next section. This code can serve as a baseline for other researchers to compare their work with the results reported here.
