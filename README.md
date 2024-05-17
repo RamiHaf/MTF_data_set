@@ -1,11 +1,12 @@
 # MTF_data_sets
 We present two image datasets:
 ### The curated Multi-Task Faces (curated MTF) image data set:
-is a meticulously curated collection of face images designed for various classification tasks, including face recognition, as well as race, gender, and age
-classification. 
+Is a meticulously curated collection of face images designed for various classification tasks, including face recognition, as well as race, gender, and age
+classification. This dataset was automatically and manually annotated to train robust classification models. 
 ### The Non-curated Multi-Task Faces (Non-curated MTF) image data set:
+Is a large collection of human faces that have been copied and annotated automatically. The main objective of the Non-curated dataset is to aid in training generative adversarial networks (GANs)
 
-Both the curated and the uncurated MTF data sets have been ethically gathered by leveraging publicly available images of celebrities and strictly adhering to copyright regulations.
+### Both the curated and the uncurated MTF data sets have been ethically gathered by leveraging publicly available images of celebrities and strictly adhering to copyright regulations.
 ## Data distribution
 ### The curated MTF data set:
 contains 5246 images
