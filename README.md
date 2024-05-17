@@ -19,22 +19,18 @@ The MTF data set contains 5246 images with a distinct distribution of celebritie
 
 
 ## Get the data
-The MTF data set can be accessed through the following link:
-https://sobigdata.d4science.org/catalogue-sobigdata?path=/dataset/multi-task_faces_mtf_dataset
 
-Moreover, we also made available all the trained models we evaluated on the MTF data set. Since these models provide baseline results for the different tasks supported by the data set, by releasing them we aim at facilitating future investigations conducted on this data set.
+The curated MTF data set can be accessed through the following: https://sobigdata.d4science.org/catalogue-sobigdata?path=/dataset/multi-task_faces_mtf_dataset
+
+The uncurated MTF data set can be accessed through the following link: https://drive.google.com/drive/folders/1u-5COZPG1n28SiIBbbNjMjGTPyV-UlOJ?usp=sharing
+
+Moreover, we have also made available all the trained models that we have evaluated on the curated and non-curated MTF datasets. Since these models provide baseline results for the various tasks supported by the dataset, our goal in releasing them is to facilitate future research on this dataset.
 https://drive.google.com/drive/folders/1M0vKn2AeKNj-Ta0M6VHNHHznJYbLobtU?usp=sharing
 
-
-The large MTF dataset which contains the auto-processed data, without manual processing is available via the following link: https://drive.google.com/drive/folders/1u-5COZPG1n28SiIBbbNjMjGTPyV-UlOJ?usp=sharing
-
-
-The second version of the data set for single tasks and the trained models are available on Google Drive through the following link: 
+The second version of the curated MTF data set for single tasks and the trained models are available on Google Drive through the following link: 
 https://drive.google.com/drive/folders/1FCSCaBMkGZ6GFcOHmfbFGPcgucRaeCrf?usp=sharing.
 
 Researchers can conveniently access the data for each task from this version, which streamlines their workflow and simplifies experimentation.
 
-In addition to the data set release, we have made available in the the Python code we used for evaluating the data with the various DL models. This code can serve as a baseline for other researchers to compare their work with the results reported here. The code is available on Github through the following link: 
+In addition to the data set release, we have made available the Python code we used for evaluating the data with the various DL models. This code can serve as a baseline for other researchers to compare their work with the results reported here. The code is available on Github through the following link: 
 https://github.com/RamiHaf/MTF_data_set/blob/main/MTF_classification_five_models.ipynb
-
-The raw data used in the comparison of models' performance in the various tasks of the MTF data set is also available on Google Drive via the following link: https://drive.google.com/drive/folders/1-pgjcEYjYcwtkQGFRRzfOJ8Py41qzzY5?usp=sharing
