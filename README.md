@@ -1,7 +1,11 @@
-# MTF_data_set
-The curated Multi-Task Faces (MTF) image data set is a meticulously curated collection of face images designed for various classification tasks, including face recognition, as well as race, gender, and age
-classification. Both the curated and the uncurated MTF data sets have been ethically gathered by leveraging publicly available images of celebrities and strictly adhering to copyright regulations.
+# MTF_data_sets
+We present two image datasets:
+### The curated Multi-Task Faces (curated MTF) image data set:
+is a meticulously curated collection of face images designed for various classification tasks, including face recognition, as well as race, gender, and age
+classification. 
+### The Non-curated Multi-Task Faces (Non-curated MTF) image data set:
 
+Both the curated and the uncurated MTF data sets have been ethically gathered by leveraging publicly available images of celebrities and strictly adhering to copyright regulations.
 ## Data distribution
 The MTF data set contains 5246 images with a distinct distribution of celebrities' image faces that emerged across different labels. While our initial efforts aimed to crawl a balanced number of images across all tasks and labels, the real distribution of the data available online led to an imbalance within the data set. This imbalance can be attributed to various factors. I) Celebrities from different regions of the world publish their images at varying rates and under different copyright licenses. II) Young celebrities tend to publish their images more frequently than elderly celebrities. III) Elderly celebrities often have more images from their younger days than images from their current age.
 
