@@ -11,7 +11,7 @@ Is a large collection of human faces that have been copied and annotated automat
 ### The curated MTF data set:
 Contains 5,246 images with a distinct distribution of 240 celebrity image faces across different labels.  While our initial efforts were aimed at creating a balanced dataset across tasks and labels, the actual distribution of data available online led to an imbalance within the dataset. This imbalance can be attributed to various factors. I) Celebrities from different regions of the world publish their images at varying rates and under different copyright licenses. II) Young celebrities tend to publish their images more frequently than elderly celebrities. III) Elderly celebrities often have more images from their younger days than images from their current age.
 
-### The uncurated MTF data set:
+### The Non-curated MTF data set:
 Contains 132,816 images of 640 celebrity faces. The automatic annotation and cropping kept the distribution balanced accross all the diferent tasks, as intended.
 
 
