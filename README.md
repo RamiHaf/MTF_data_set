@@ -6,7 +6,7 @@ classification. This dataset was automatically and manually annotated to train r
 ### The Non-curated Multi-Task Faces (Non-curated MTF) image data set:
 Is a large collection of human faces that have been copied and annotated automatically. The main objective of the Non-curated dataset is to aid in training generative adversarial networks (GANs)
 
-### Both the curated and the uncurated MTF data sets have been ethically gathered by leveraging publicly available images of celebrities and strictly adhering to copyright regulations.
+### Both the curated and the Non-curated MTF data sets have been ethically gathered by leveraging publicly available images of celebrities and strictly adhering to copyright regulations.
 ## Data distribution
 ### The curated MTF data set:
 Contains 5,246 images with a distinct distribution of 240 celebrity image faces across different labels.  While our initial efforts were aimed at creating a balanced dataset across tasks and labels, the actual distribution of data available online led to an imbalance within the dataset. This imbalance can be attributed to various factors. I) Celebrities from different regions of the world publish their images at varying rates and under different copyright licenses. II) Young celebrities tend to publish their images more frequently than elderly celebrities. III) Elderly celebrities often have more images from their younger days than images from their current age.
