@@ -23,7 +23,7 @@ Contains 132,816 images of 640 celebrity faces. The automatic annotation and cro
 
 The curated MTF data set can be accessed through the following: https://sobigdata.d4science.org/catalogue-sobigdata?path=/dataset/multi-task_faces_mtf_dataset
 
-The uncurated MTF data set can be accessed through the following link: https://drive.google.com/drive/folders/1u-5COZPG1n28SiIBbbNjMjGTPyV-UlOJ?usp=sharing
+The non-curated MTF data set can be accessed through the following link: https://drive.google.com/drive/folders/1u-5COZPG1n28SiIBbbNjMjGTPyV-UlOJ?usp=sharing
 
 Moreover, we have also made available all the trained models that we have evaluated on the curated and non-curated MTF datasets. Since these models provide baseline results for the various tasks supported by the dataset, our goal in releasing them is to facilitate future research on this dataset.
 https://drive.google.com/drive/folders/1M0vKn2AeKNj-Ta0M6VHNHHznJYbLobtU?usp=sharing
